@@ -1,0 +1,52 @@
+body{
+background-color: chartreuse;
+}
+#Title{
+    font-size:40px;
+    color:white;
+    border-radius: 20px;
+}
+#para{
+    color:black;
+    font-weight: bold;
+}
+#Teetle{
+font-size:25px;
+border-radius:20px;
+color:white;
+}
+label{
+    font-size:23px;
+    color:black;
+    }
+    #camera , #result
+{
+width: 350px;
+height: 300px; 
+border-width: 10px;
+border-style:groove;
+border-color:brown;
+}
+#snap{
+font-size: 20px;
+}
+#chec{
+    font-size: 20px;
+    background-color: darkgreen;
+    color: white;
+    height:43px;
+    border-radius: 5px;
+    }
+
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
